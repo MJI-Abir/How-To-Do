@@ -47,6 +47,6 @@ class AppRoutes {
     // settingsScreen: (context) => SettingsScreen(),
     // languageScreen: (context) => LanguageScreen(),
     // termsandconditionsScreen: (context) => TermsandconditionsScreen(),
-    // appNavigationScreen: (context) => AppNavigationScreen()
+    appNavigationScreen: (context) => AppNavigationScreen()
   };
 }

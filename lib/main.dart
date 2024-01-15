@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
           theme: theme,
           title: 'seriously',
           debugShowCheckedModeBanner: false,
-          initialRoute: AppRoutes.splashScreen,
+          initialRoute: AppRoutes.appNavigationScreen,
           routes: AppRoutes.routes,
         );
       },
